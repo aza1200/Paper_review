@@ -1,0 +1,4 @@
+*.data
+*.ipynb_checkpoints
+*.gz
+multi30k
